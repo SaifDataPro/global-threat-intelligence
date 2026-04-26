@@ -1,0 +1,20 @@
+# Credentials and secrets
+*.json
+*.env
+.env*
+*credentials*
+*secret*
+*key*
+service_account*.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
