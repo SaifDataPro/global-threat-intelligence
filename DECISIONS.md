@@ -8,3 +8,4 @@
 | 4 | [2 May 2026] | Excluded is_malicious_seed from bronze_firewall_logs | Column is synthetic helper only, not representative of real source data. Bronze mirrors real-world source schema. | N/A |
 | 5 | [2 May 2026] | Bronze arrays stored as strings | tags, malware_families, targeted_countries from OTX are JSON arrays stored as raw strings in Bronze. Parsing happens in Silver only. | Parse in Bronze (rejected — violates raw landing principle) |
 | 6 | [2 May 2026] | Separate Bronze tables per source | bronze_otx_pulses, bronze_otx_indicators, bronze_firewall_logs kept separate. Combining happens in Silver. | Single combined table (rejected — loses source lineage) |
+| 7 | [today] | Key Vault for OTX API key storage | Azure Key Vault selected over Fabric environment variables — trial workspace does not reliably expose Spark properties. Key Vault is production-grade and near zero cost. | Fabric environment variables (rejected — unreliable on trial) |
