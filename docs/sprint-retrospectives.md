@@ -42,6 +42,28 @@ None — all 4 tasks delivered.
 ### What we do differently in Sprint 3
 - Same pace and intent — no changes needed
 - Continue questioning every decision
+## Sprint 3 — Gold Layer
+**Date:** May 2026
 
+### What went well
+- More domain connections this sprint — risk scoring 
+  mapped directly to prior professional experience
+- Asked more questions and reflected on decisions 
+  rather than just executing
+- Product thinking emerged naturally — automated 
+  reporting vs Power BI debate was self-initiated
+
+### What was harder than expected
+- PySpark and SQL scripting still heavily guided
+- Would have arrived at the right process independently
+  but not the code implementation
+
+### What we do differently in Sprint 4
+- More input from me on dashboard design decisions
+- Less copy-paste, more deliberate thinking before coding
+- Use domain and PM instincts to lead the BI layer
+
+### Carry-over to Sprint 4
+None — all 6 tasks delivered.
 ### Carry-over to Sprint 3
 None — all 6 tasks delivered.
