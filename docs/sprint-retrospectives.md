@@ -67,3 +67,29 @@ None — all 4 tasks delivered.
 None — all 6 tasks delivered.
 ### Carry-over to Sprint 3
 None — all 6 tasks delivered.
+
+## Sprint 4 — Semantic Model & Power BI
+**Date:** May 2026
+
+### What went well
+- Asked more questions and checked reasoning before 
+  executing — catching the relationship direction error
+  is a good example of this discipline paying off
+- Sprint was largely self-driven — Power BI and semantic
+  modelling is existing expertise, applied with more
+  rigour than before
+
+### What was harder than expected
+- Nothing significantly outside comfort zone — this 
+  sprint was within existing remit
+- Relationship direction error was a reminder that 
+  AI-assisted work requires human oversight at every step
+
+### What we do differently in Sprint 5
+- Maintain same discipline — question before executing
+- Focus on making the project portfolio-ready
+
+### Carry-over to Sprint 5
+- Power Automate alert deferred to backlog
+- Malware family description lookup table deferred
+- JSON bracket cleanup on malware families visual
